@@ -1,0 +1,62 @@
+body{
+    background-color: aliceblue;
+}
+header{
+    text-align: center;
+    background-color: white;
+}
+.Emmploy{
+    margin: 15px;
+    padding: 15px;
+}
+
+.container{
+display: flex;
+}
+.Name{
+    display: grid;
+    margin: 15px;
+    padding: 15px;
+
+}
+.num{
+    display: grid;
+    margin: 15px;
+    padding: 15px;
+}
+.date{
+    display: grid;
+    margin: 15px;
+    padding: 12px;
+    
+}
+
+
+.job{
+    display: grid;
+    margin: 15px;
+    padding: 15px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px; 
+}
+.button2{
+    color: white;
+    background:rgb(219, 77, 100);
+    height: 30px;
+    width: 90px;
+    border: none;
+    border-radius: 15px;
+    font-size: large;
+
+.button1{
+    color: gray;
+    background: transparent ;
+    height: 30px;
+    width: 90px;
+    border: 2px lightgray solid;
+    border-radius: 15px;
+    font-size: large;
